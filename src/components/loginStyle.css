@@ -1,0 +1,15 @@
+.error
+{
+    color:red;
+}
+.background
+{
+    background-color: chocolate;
+}
+
+.displayData
+{
+    display: flex;
+}
+
+
